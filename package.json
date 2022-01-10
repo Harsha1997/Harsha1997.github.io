@@ -1,0 +1,23 @@
+{
+  "name": "harsha.github.io",
+  "version": "1.0.0",
+  "description": "My Portfolio page",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsha1997/Harsha1997.github.io.git"
+  },
+  "author": "Harsha Vardhan Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsha1997/Harsha1997.github.io/issues"
+  },
+  "homepage": "https://github.com/Harsha1997/Harsha1997.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
